@@ -1,0 +1,21 @@
+[click_delay]
+[click_delay.mean]
+min = 40.0
+max = 47.0
+intrpl_clicks = 60
+
+[click_delay.std_dev]
+min = 2.0
+max = 5.0
+intrpl_clicks = 100
+
+[exhaust]
+min_chance = 0.08
+mean = 90.0
+std_dev = 6.0
+
+[double_click]
+first_click_chance = 0.0
+second_click_chance = 0.0
+mean = 22.0
+std_dev = 0.2
